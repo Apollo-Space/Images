@@ -4,7 +4,6 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Net;
-using System.Security.Cryptography.X509Certificates;
 using Exiled.API.Features;
 using MEC;
 
